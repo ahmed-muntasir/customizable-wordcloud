@@ -1,4 +1,4 @@
-# Word Clouds from Text File
+# Word Clouds from .txt file and Website
 `Word` clouds, also referred to as text clouds or tag clouds, function by visually emphasizing words based on their frequency in a given text source, such as a speech, blog post, or database. The more often a word appears, the larger and bolder it is displayed in the word cloud.
 
 `word_cloud` package was developed by **Andreas Mueller**. You can learn more about the package by following this [link](https://github.com/amueller/word_cloud/).
